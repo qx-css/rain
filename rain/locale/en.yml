@@ -1,9 +1,0 @@
-qx-css:
-  rain:
-    admin:
-      settings_title: "Rain Effect"
-      enabled: "Enable rain effect"
-      density: "Rain density"
-      speed: "Rain speed"
-      color: "Rain color"
-      opacity: "Opacity"
